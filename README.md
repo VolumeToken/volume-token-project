@@ -18,12 +18,11 @@ VOLUME Token has achieved a perfect 10/10 security score - accomplished by only 
 ## 📊 Live Deployment
 - **Contract:** `0x5D3a740cb69Df9e36389C9DD2e2015F8408A3f52`
 - **Network:** Ethereum Sepolia Testnet
-- **Status:** ✅ **LIVE & TRADING**
+- **Status:** ✅ **LIVE**
 - **Total Supply:** 50,000,000,000 VLM
 
 ## 🔗 Links
-- [**Etherscan Contract**](https://sepolia.etherscan.io/address/0x5D3a740cb69Df9e36389C9DD2e2015F8408A3f52)
-- [**Trade on Uniswap**](https://app.uniswap.org)
+- [**Etherscan Contract**](https://sepolia.etherscan.io/address/0x5D3a740cb69Df9e36389C9DD2e2015F8408A3f52
 
 ## 🏆 Achievement Summary
 **VOLUME represents the pinnacle of DeFi security excellence** with a perfect 10/10 security score and comprehensive protection mechanisms that exceed industry standards.
