@@ -6,7 +6,7 @@ VOLUME Token has achieved a perfect 10/10 security score - accomplished by only 
 ## 🎯 Key Achievements
 - 🏆 **Perfect 10/10 Security Score** - Highest possible rating
 - 🛡️ **Zero Critical Vulnerabilities** - Flawless implementation
-- 🚀 **Live & Trading** - Operational on Uniswap
+- 🚀 **Live** - Operational on Sepolia
 - 💎 **Advanced Protection** - Industry-leading mechanisms
 
 ## 🔒 Security Features
