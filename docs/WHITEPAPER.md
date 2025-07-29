@@ -304,14 +304,13 @@ VOLUME is built for long-term investment. No Parabens. No rugs. Just pure volume
 - **Telegram**: https://t.me/+CWI-vcU8d8swNjFk
 - **Twitter**: https://www.x.com/volume_defi
 
-📇 Developer Transparency
+📇 **Developer Transparency**
 This project was built with a commitment to transparency, integrity, and long-term sustainability. As the lead developer and architect behind this token, I believe in being fully accountable to the community.
 
 You can verify my credentials, experience, and ongoing contributions through my professional profile:
 
 👉 Connect with me on LinkedIn (https://www.linkedin.com/in/jason-cousins-76906a78/).
 
-I welcome technical collaboration, strategic partnerships, and honest discussion to help shape a more secure and equitable DeFi future.
 ---
 
 ## Disclaimer
