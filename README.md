@@ -300,7 +300,7 @@ Join our growing community:
 - 💬 **Telegram**: [t.me/VolumeToken](https://t.me/+CWI-vcU8d8swNjFk)
 - 📧 **Email**: admin@volumetoken.com
 - 🌐 **Website**: [volumetoken.com](https://www.volumetoken.com)
-
+- 🔗 **LinkedIn**: (https://www.linkedin.com/in/jason-cousins-76906a78/).
 ### Official Links Only
 ⚠️ **Beware of scams!** Only use links from this official repository.
 
