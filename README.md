@@ -333,7 +333,7 @@ VOLUME is designed for efficiency:
 This project is experimental software. Cryptocurrency investments carry significant risk. Always do your own research and never invest more than you can afford to lose.
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ---
 
