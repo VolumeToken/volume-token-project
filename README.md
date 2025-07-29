@@ -28,7 +28,8 @@ That's it. Simple, effective, and proven to stop pump & dumps.
 
 | Metric | Value |
 |--------|-------|
-| **Total Supply** | 20,000,000,000 VLM |
+| **Total Supply** | 100,000,000,000 VLM |
+| **Circulating Supply** | 10,000,000,000 VLM |
 | **Buy-to-Sell Lock** | 1 Hour (3,600 seconds) |
 | **Max Wallet** | 2% (20,000,000 VLM) |
 | **Max Sell Per TX** | 1% (10,000,000 VLM) |
@@ -231,11 +232,11 @@ We offer rewards for finding security vulnerabilities. Please report privately t
 ### Supply Distribution
 | Allocation | Amount | Percentage | Vesting |
 |------------|--------|------------|---------|
-| Liquidity Pool | 400,000,000 VLM | 40% | Locked 12 months |
-| Community Rewards | 250,000,000 VLM | 25% | Released over 24 months |
-| Team | 150,000,000 VLM | 15% | 6 month cliff, 18 month vest |
-| Marketing | 100,000,000 VLM | 10% | Released quarterly |
-| Development | 100,000,000 VLM | 10% | As needed |
+| Liquidity Pool | 10,000,000,000 VLM | 10% | Locked 12 months |
+| Community Rewards | 10,000,000,000 VLM | 10% | Released over 24 months |
+| Marketing | 10,000,000,000 VLM | 10% | Released quarterly |
+| CEX reserve | 20,000,000,000 VLM | 20% | Released quarterly |
+| Burn Reserve | 50,000,000,000 VLM | 50% | Scarcity |
 
 ### Fee Structure
 - **Buy Fee**: 0% (Free to buy)
