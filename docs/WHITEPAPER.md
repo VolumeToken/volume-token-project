@@ -302,7 +302,7 @@ VOLUME is built for long-term investment. No Parabens. No rugs. Just pure volume
 - **Contract Address**: [Deployed on Mainnet]
 - **Email**: info@volumetoken.com
 - **Telegram**: [Community link]
-- **Twitter**: x.com/volume_defi
+- **Twitter**: https://www.x.com/volume_defi
 
 ---
 
