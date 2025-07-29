@@ -349,7 +349,7 @@ This project is licensed under the MIT License
 
 <div align="center">
 
-### 🚀 **VOLUME - Simple Protection Against Pump & Dumps** 🚀
+### 🚀 **VOLUME - No parabens. No rugs. Just pure volume.** 🚀
 
 **The future of DeFi is simple, secure, and sustainable.**
 
