@@ -42,7 +42,7 @@ VOLUME implements a simple yet effective solution: a mandatory waiting period be
 |-----------|-------|
 | Token Name | Volume |
 | Symbol | VLM |
-| Total Supply | 20,000,000,000 (20 billion) |
+| Total Supply | 100,000,000,000 (10 billion circulating) |
 | Decimals | 18 |
 | Network | Ethereum Mainnet |
 | Standard | ERC-20 |
@@ -52,11 +52,10 @@ VOLUME implements a simple yet effective solution: a mandatory waiting period be
 - **100% Initial Supply**: Allocated to deployer for:
   - Liquidity provision
   - Community distribution
-  - Team allocation
   - Marketing initiatives
-
-No minting function exists - the supply is fixed at 20 billion VLM.
-
+  - CEX reserve
+  - Burn reserve
+    
 ---
 
 ## 3. Core Mechanism: Buy-to-Sell Timelock
@@ -99,13 +98,13 @@ else if (!isDexPair[from] && isDexPair[to]) {
 
 ### 4.1 Anti-Whale Protection
 
-- **Maximum Wallet**: 2% of total supply (400,000,000 VLM)
+- **Maximum Wallet**: 2% of circulating supply (200,000,000 VLM)
 - **Purpose**: Prevents single entities from controlling large portions of supply
 - **Exemptions**: DEX pairs and designated addresses
 
 ### 4.2 Anti-Dump Protection
 
-- **Maximum Sell**: 1% of total supply per transaction (200,000,000 VLM)
+- **Maximum Sell**: 1% of total supply per transaction (100,000,000 VLM)
 - **Purpose**: Prevents large market sells that crash the price
 - **Application**: Only applies to DEX sells
 
