@@ -222,7 +222,7 @@ npx hardhat test test/VOLUME.test.js --grep "timelock"
 - **Time-tested patterns** - Based on proven concepts
 
 ### Bug Bounty
-We offer rewards for finding security vulnerabilities. Please report privately to security@volumetoken.com
+We offer rewards for finding security vulnerabilities. Please report privately to admin@volumetoken.com
 
 ---
 
@@ -297,7 +297,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 Join our growing community:
 
 - 🐦 **Twitter**: [@VolumeToken](https://x.com/Volume_defi)
-- 💬 **Telegram**: [t.me/VolumeToken](https://t.me/VolumeToken)
+- 💬 **Telegram**: [t.me/VolumeToken](https://t.me/+CWI-vcU8d8swNjFk)
 - 📧 **Email**: admin@volumetoken.com
 - 🌐 **Website**: [volumetoken.com](https://www.volumetoken.com)
 
