@@ -28,7 +28,7 @@ That's it. Simple, effective, and proven to stop pump & dumps.
 
 | Metric | Value |
 |--------|-------|
-| **Total Supply** | 1,000,000,000 VLM |
+| **Total Supply** | 20,000,000,000 VLM |
 | **Buy-to-Sell Lock** | 1 Hour (3,600 seconds) |
 | **Max Wallet** | 2% (20,000,000 VLM) |
 | **Max Sell Per TX** | 1% (10,000,000 VLM) |
@@ -296,11 +296,10 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 Join our growing community:
 
-- 🐦 **Twitter**: [@VolumeToken](https://twitter.com/VolumeToken)
+- 🐦 **Twitter**: [@VolumeToken](https://x.com/Volume_defi)
 - 💬 **Telegram**: [t.me/VolumeToken](https://t.me/VolumeToken)
-- 📧 **Email**: support@volumetoken.com
-- 🌐 **Website**: [volumetoken.com](https://volumetoken.com) *(Coming Soon)*
-- 📝 **Medium**: [@VolumeToken](https://medium.com/@VolumeToken)
+- 📧 **Email**: admin@volumetoken.com
+- 🌐 **Website**: [volumetoken.com](https://www.volumetoken.com)
 
 ### Official Links Only
 ⚠️ **Beware of scams!** Only use links from this official repository.
