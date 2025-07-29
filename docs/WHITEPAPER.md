@@ -42,7 +42,7 @@ VOLUME implements a simple yet effective solution: a mandatory waiting period be
 |-----------|-------|
 | Token Name | Volume |
 | Symbol | VLM |
-| Total Supply | 1,000,000,000 (1 billion) |
+| Total Supply | 20,000,000,000 (20 billion) |
 | Decimals | 18 |
 | Network | Ethereum Mainnet |
 | Standard | ERC-20 |
@@ -55,7 +55,7 @@ VOLUME implements a simple yet effective solution: a mandatory waiting period be
   - Team allocation
   - Marketing initiatives
 
-No minting function exists - the supply is fixed at 1 billion VLM.
+No minting function exists - the supply is fixed at 20 billion VLM.
 
 ---
 
@@ -99,13 +99,13 @@ else if (!isDexPair[from] && isDexPair[to]) {
 
 ### 4.1 Anti-Whale Protection
 
-- **Maximum Wallet**: 2% of total supply (20,000,000 VLM)
+- **Maximum Wallet**: 2% of total supply (400,000,000 VLM)
 - **Purpose**: Prevents single entities from controlling large portions of supply
 - **Exemptions**: DEX pairs and designated addresses
 
 ### 4.2 Anti-Dump Protection
 
-- **Maximum Sell**: 1% of total supply per transaction (10,000,000 VLM)
+- **Maximum Sell**: 1% of total supply per transaction (200,000,000 VLM)
 - **Purpose**: Prevents large market sells that crash the price
 - **Application**: Only applies to DEX sells
 
@@ -292,17 +292,17 @@ The token's design philosophy prioritizes:
 - **Transparent mechanics**
 - **Proven effectiveness**
 
-VOLUME is not just another token - it's a statement that effective solutions don't require complexity. Sometimes, the simplest approach is the best approach.
+VOLUME is built for long-term investment. No Parabens. No rugs. Just pure volume.
 
 ---
 
 ## 14. Contact & Resources
 
-- **Website**: [To be announced]
+- **Website**: www.volumetoken.com
 - **Contract Address**: [Deployed on Mainnet]
-- **Email**: [Contact email]
+- **Email**: info@volumetoken.com
 - **Telegram**: [Community link]
-- **Twitter**: [@VolumeToken]
+- **Twitter**: x.com/volume_defi
 
 ---
 
@@ -312,5 +312,5 @@ This whitepaper is for informational purposes only and does not constitute finan
 
 ---
 
-*Version 2.0 - Published [Date]*
+*Version 2.0 - Published July 2025*
 *Copyright © 2024 VOLUME Token*
