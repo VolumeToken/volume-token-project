@@ -247,27 +247,27 @@ We offer rewards for finding security vulnerabilities. Please report privately t
 
 ## 🗺️ Roadmap
 
-### Phase 1: Launch (Q1 2024) ✅
+### Phase 1: Launch (Q2 2025) ✅
 - [x] Smart contract development
 - [x] Testnet deployment
 - [x] Security testing
 - [ ] Mainnet deployment
 - [ ] Initial liquidity provision
 
-### Phase 2: Growth (Q2 2024)
+### Phase 2: Growth (Q3 2025)
 - [ ] Uniswap V2 integration
 - [ ] Dextools trending
 - [ ] CoinGecko listing
 - [ ] CMC listing
 - [ ] 1,000 holders
 
-### Phase 3: Expansion (Q3 2024)
+### Phase 3: Expansion (Q1 2026)
 - [ ] CEX listings
 - [ ] Cross-chain bridge
 - [ ] Governance features
 - [ ] 10,000 holders
 
-### Phase 4: Ecosystem (Q4 2024)
+### Phase 4: Ecosystem (Q2 2026)
 - [ ] DeFi integrations
 - [ ] Partnership announcements
 - [ ] Mobile wallet
