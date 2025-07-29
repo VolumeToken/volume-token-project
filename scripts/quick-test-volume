@@ -1,0 +1,14 @@
+const { ethers } = require("hardhat");
+
+async function main() {
+    const VOLUME_ADDRESS = "0x656791D3708b07d3A2FA63fC33FF5BC30f97f458";
+    
+    const [owner] = await ethers.getSigners();
+    const volume = await ethers.getContractAt("VOLUME", VOLUME_ADDRESS);
+    
+    console.log("Token Name:", await volume.name());
+    console.log("Symbol:", await volume.symbol());
+    console.log("Your Balance:", ethers.utils.formatEther(await volume.balanceOf(owner.address)), "VLM");
+}
+
+main().catch(console.error);
