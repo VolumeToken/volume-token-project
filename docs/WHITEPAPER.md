@@ -104,7 +104,7 @@ else if (!isDexPair[from] && isDexPair[to]) {
 
 ### 4.2 Anti-Dump Protection
 
-- **Maximum Sell**: 1% of total supply per transaction (100,000,000 VLM)
+- **Maximum Sell**: 1% of circulating supply per transaction (100,000,000 VLM)
 - **Purpose**: Prevents large market sells that crash the price
 - **Application**: Only applies to DEX sells
 
