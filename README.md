@@ -31,8 +31,8 @@ That's it. Simple, effective, and proven to stop pump & dumps.
 | **Total Supply** | 100,000,000,000 VLM |
 | **Circulating Supply** | 10,000,000,000 VLM |
 | **Buy-to-Sell Lock** | 1 Hour (3,600 seconds) |
-| **Max Wallet** | 2% (20,000,000 VLM) |
-| **Max Sell Per TX** | 1% (10,000,000 VLM) |
+| **Max Wallet** | 2% (200,000,000 VLM) |
+| **Max Sell Per TX** | 1% (100,000,000 VLM) |
 | **Sell Fee** | 5% |
 | **Gas Per Transfer** | ~45,000 (42% less than complex tokens) |
 
