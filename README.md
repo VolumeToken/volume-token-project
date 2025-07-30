@@ -122,11 +122,11 @@ require(block.timestamp >= lastBuyTime[seller] + 3600, "Cannot sell yet - timelo
 ```
 
 #### 🐋 **Anti-Whale Protection**
-- Maximum wallet: 2% of total supply
+- Maximum wallet: 2% of circulating supply
 - Prevents large holders from manipulating price
 
 #### 📉 **Anti-Dump Protection**
-- Maximum sell: 1% per transaction
+- Maximum sell: 1% of circulating supply per transaction
 - Prevents massive sells that crash the price
 
 #### 💰 **Sustainable Tokenomics**
