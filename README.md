@@ -217,7 +217,7 @@ npx hardhat test test/VOLUME.test.js --grep "timelock"
 - Professional audit: 🟡 Planned
 
 ### Security Features
-- **No mint function** - Supply is fixed forever
+- **OpenZeppelin contract**
 - **Simple design** - Reduces attack surface
 - **No external dependencies** - No oracle risks
 - **Time-tested patterns** - Based on proven concepts
